@@ -1,0 +1,7 @@
+body{
+    background-color:antiquewhite;
+}
+.nav-list{
+    float: left;
+    list-style: none;
+}
